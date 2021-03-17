@@ -3,7 +3,7 @@ package les1;
 import static java.lang.Math.pow;
 import static java.lang.Math.sqrt;
 
-public class quadraticEquation {
+public class QuadraticEquation {
     public static void main(String[] args) {
 
         quadraticEquation(1, 2, 3);
